@@ -32,7 +32,7 @@ public class UIReturnToMainMenu : MonoBehaviour
         }
         if ((Input.GetKeyDown(KeyCode.Escape)))
         {
-            ReturnToMainMenu();
+           // ReturnToMainMenu();
         }
     }
 }
